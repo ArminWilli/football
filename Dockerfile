@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #2. fix docker
+=======
+#2. Feature docker file
+>>>>>>> feature-abc-13-Docker
 #Kommentar
 
 ARG DOCKER_BASE
